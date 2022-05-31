@@ -1,0 +1,18 @@
+@media (max-width: 700px) {
+    #topbar .breadcrumb .crumb-active {
+        display: inline-block;
+    }
+}
+
+#ranges {
+    display: none;
+}
+.navbar.bg-primary {
+    background-color: #1E2D5C;
+}
+
+.bg-primary {
+    background-color: #1E2D5C;
+    background-color: #1E2D5C !important;
+    color: #f5f8fd;
+}
